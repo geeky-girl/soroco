@@ -1,0 +1,5 @@
+setup.py
+soroco.egg-info/PKG-INFO
+soroco.egg-info/SOURCES.txt
+soroco.egg-info/dependency_links.txt
+soroco.egg-info/top_level.txt
